@@ -26,7 +26,7 @@
     "react-navigation": "^3.9.1",
     "react-navigation-redux-helpers": "^3.0.2",
     "react-redux": "^7.0.3",
-    "react-xml-parser": "^1.1.2",
+    "react-xml-parser": "^1.1.8",
     "redux": "^4.0.1",
     "redux-devtools": "^3.5.0",
     "redux-thunk": "^2.3.0"
